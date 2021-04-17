@@ -1,7 +1,10 @@
 # my-first-repo
 
-My first repo to test Git
-I have added new text into this file
-This is a staged line
-This is an unstaged line
-test
+1. My first repo to test Git
+2. I have added new text into this file
+3. This is a staged line
+4. This is an unstaged line
+5. test
+
+Normal text  
+Next line
